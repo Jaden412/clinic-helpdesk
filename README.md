@@ -1,10 +1,10 @@
 # Clinic Helpdesk
 
-An IT ticketing system built for small medical clinics, where 2-3 in-house IT staff support the rest of the clinic's employees. Built as a class project for [your class name].
+An IT ticketing system built for small medical clinics, where 2-3 in-house IT staff support the rest of the clinic's employees. Built as a class project for ITC 400 H001 Senior Project.
 
 ## Live Demo
 
-[Link added after deployment]
+https://clinic-helpdesk.vercel.app/
 
 ## Overview
 
